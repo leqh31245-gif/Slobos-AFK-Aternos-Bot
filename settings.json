@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "hagfish.aternos.host:54720",
+    "ip": "hagfish.aternos.host",
     "port": 54720,
-    "version": "26.2:"
+    "version": "26.2",
     "try-creative": false
   },
   "position": {
@@ -31,7 +31,6 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        
         "I like to play Minecraft!"
       ]
     },
