@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Lehung1234.aternos.me",
+    "ip": "hagfish.aternos.host:54720",
     "port": 54720,
-    "version": "auto:"
+    "version": "26.2:"
 ",
     "try-creative": false
   },
