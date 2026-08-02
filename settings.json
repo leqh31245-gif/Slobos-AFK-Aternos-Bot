@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "",
+    "ip": "Lehung1234.aternos.me",
     "port": 54720,
-    "version": "26.2",
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
